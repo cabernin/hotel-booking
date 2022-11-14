@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/.vs/HotelBooking/v16
+/Release
+/HotelBooking/Debug
+/HotelBooking/Release
